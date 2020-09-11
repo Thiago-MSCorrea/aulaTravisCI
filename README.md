@@ -1,2 +1,3 @@
 # aulaTravisCI
-aula devops de CI
+aula devops de CI<br>
+Thiago Correa
